@@ -1,5 +1,5 @@
 # ImageProcessing
-#### This repository is in the **Image Processing** class. There is about the way to play with an images such as split the RGB channels, adjust contrast, etc. All works in this space are created by *Python*.
+#### This repository is in the *Image Processing* class. There is about the way to play with an images such as split the RGB channels, adjust contrast, etc. All works in this space are created by *Python*.
 ---
 
 > ### Week2 
