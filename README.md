@@ -17,3 +17,8 @@
 > + thresholding
 > + histogram equalization
 > + histogram specification 
+
+> ### Week5
+> + create box filter
+> + create guassian filter
+> + create mexican hat (laplacian) filter
